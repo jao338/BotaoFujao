@@ -34,11 +34,13 @@ main {
 .subtitulo{
     margin-top: 1%;
     color: white;
-    font-size: 20pt; 
+    font-size: 16pt; 
 }
 
 .btm{
-    margin-top: 50px;
+    margin: auto;
+    width: 160px;
+    margin-top: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -48,10 +50,20 @@ main {
     margin: 1%;
     width: 70px;
     height: 35px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    font-weight: 700;
+    margin-left: -80px;
 }
 
 #nao{
-    margin: 1%;
+    position: absolute;
     width: 70px;
     height: 35px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    font-weight: 700;
+    margin-right: -80px;
 }
