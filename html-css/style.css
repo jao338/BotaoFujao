@@ -55,6 +55,7 @@ main {
     border-radius: 25px;
     font-weight: 700;
     margin-left: -80px;
+    cursor: pointer;
 }
 
 #nao{
@@ -66,4 +67,5 @@ main {
     border-radius: 25px;
     font-weight: 700;
     margin-right: -80px;
+    cursor: pointer;
 }
